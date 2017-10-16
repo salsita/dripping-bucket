@@ -1,7 +1,7 @@
 {
   "name": "dripping-bucket",
   "version": "1.0.0",
-  "description": "Delay calculator for leaky-buckets.",
+  "description": "Library to calculate delays for operations running against rate-limited services",
   "main": "lib/bucket.js",
   "scripts": {
     "lint": "eslint lib/*.js",
@@ -20,7 +20,10 @@
     "rate-limit",
     "rate-limiter",
     "client",
-    "delay"
+    "delay",
+    "amqp",
+    "rabbitmq",
+    "es2015"
   ],
   "author": "Roman Kaspar <roman@salsitasoft.com> (https://salsitasoft.com/)",
   "license": "MIT",
