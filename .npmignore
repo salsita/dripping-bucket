@@ -1,0 +1,3 @@
+lib/*.spec.js
+.babelrc
+.eslintrc.json
