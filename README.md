@@ -1,5 +1,5 @@
 [![Dependency Status](https://img.shields.io/david/salsita/dripping-bucket.svg)](https://david-dm.org/salsita/dripping-bucket)
-[![devDependency Status](https://img.shields.io/david/dev/salsita/dripping-bucket.svg)](https://david-dm.org/salsita/node-pg-migrate?type=dev)
+[![devDependency Status](https://img.shields.io/david/dev/salsita/dripping-bucket.svg)](https://david-dm.org/salsita/dripping-bucket?type=dev)
 ![Downloads](https://img.shields.io/npm/dm/dripping-bucket.svg?style=flat)
 ![Licence](https://img.shields.io/npm/l/dripping-bucket.svg?style=flat)
 [![Known Vulnerabilities](https://snyk.io/test/github/salsita/dripping-bucket/badge.svg)](https://snyk.io/test/github/salsita/dripping-bucket)
