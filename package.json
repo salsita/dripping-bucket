@@ -1,6 +1,6 @@
 {
   "name": "dripping-bucket",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library to calculate delays for operations running against rate-limited services",
   "main": "lib/bucket.js",
   "scripts": {
