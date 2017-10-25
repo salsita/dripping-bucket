@@ -33,6 +33,12 @@ if (!delay) {
 }
 ```
 
+In your ES5 code, use `require()` instead of `import`:
+```
+const Bucket = require('dripping-bucket').Bucket;
+...
+```
+
 ## Why another library?
 
 There are other client libraries already for this purpose, their API expects callbacks that are executed when rate-limit allows. And by then the callbacks are enqueued in some internal (memory) structure. Our library is written to play well with messaging services (e.g. RabbitMQ) where we don't want to pile up callbacks in memory of the process (as the process can crash, and also it doesn't scale well).
@@ -178,8 +184,9 @@ $ npm i
 The library code is in `lib/bucket.js`.
 
 ```
-$ npm run lint  # to lint the code
-$ npm test      # to run the tests
+$ npm run lint   # to lint the code
+$ npm test       # to run the tests
+$ npm run build  # to run lint, tests, and transpile to ES5 for publishing
 ```
 
 ## Licence
