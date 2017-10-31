@@ -2,3 +2,4 @@ lib
 .babelrc
 .eslintrc.json
 dist/*.spec.js
+*.tgz
