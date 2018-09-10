@@ -49,5 +49,11 @@
   },
   "dependencies": {
     "lodash": "^4.17.10"
+  },
+  "renovate": {
+    "extends": [
+      "config:base"
+    ],
+    "bumpVersion": "patch"
   }
 }
