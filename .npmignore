@@ -3,3 +3,4 @@ lib
 .eslintrc.json
 dist/*.spec.js
 *.tgz
+.circleci
