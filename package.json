@@ -52,10 +52,12 @@
     "lodash": "^4.17.11"
   },
   "renovate": {
-    "extends": [
-      "config:base"
-    ],
-    "bumpVersion": "patch"
+    "extends": ["config:base"],
+    "bumpVersion": "patch",
+    "automerge": true,
+    "major": {
+      "automerge": false
+    }
   },
   "jest": {
     "testEnvironment": "node"
