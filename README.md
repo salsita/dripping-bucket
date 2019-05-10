@@ -193,7 +193,7 @@ $ npm run build  # to run lint, tests, and transpile to ES5 for publishing
 
 MIT License
 
-Copyright (c) 2017, 2018 Salsita Software
+Copyright (c) 2017 -- 2019 Salsita Software
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
