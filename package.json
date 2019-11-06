@@ -1,6 +1,6 @@
 {
   "name": "dripping-bucket",
-  "version": "1.1.56",
+  "version": "1.1.57",
   "description": "Library to calculate delays for operations running against rate-limited services",
   "main": "dist/bucket.js",
   "scripts": {
@@ -37,7 +37,7 @@
   "homepage": "https://github.com/salsita/dripping-bucket#readme",
   "devDependencies": {
     "@babel/cli": "7.7.0",
-    "@babel/core": "7.7.0",
+    "@babel/core": "7.7.2",
     "@babel/preset-env": "7.7.1",
     "eslint": "6.6.0",
     "eslint-config-standard": "13.0.1",
