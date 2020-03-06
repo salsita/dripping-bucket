@@ -13,7 +13,7 @@
     "url": "git+https://github.com/salsita/dripping-bucket.git"
   },
   "engines": {
-    "node": "^8.0.0"
+    "node": ">=10.0.0"
   },
   "keywords": [
     "leaky",
@@ -48,18 +48,7 @@
     "jest": "25.1.0"
   },
   "dependencies": {
-    "@babel/polyfill": "7.8.7",
-    "lodash": "4.17.15"
-  },
-  "renovate": {
-    "extends": [
-      "config:base"
-    ],
-    "bumpVersion": "patch",
-    "automerge": true,
-    "major": {
-      "automerge": false
-    }
+    "lodash": "^4.17.15"
   },
   "jest": {
     "testEnvironment": "node"
