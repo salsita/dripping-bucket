@@ -39,7 +39,7 @@
     "@babel/cli": "7.12.1",
     "@babel/core": "7.12.3",
     "@babel/preset-env": "7.12.1",
-    "eslint": "7.12.0",
+    "eslint": "7.12.1",
     "eslint-config-standard": "15.0.0",
     "eslint-plugin-import": "2.22.1",
     "eslint-plugin-node": "11.1.0",
