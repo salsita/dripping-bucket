@@ -38,8 +38,8 @@
   "devDependencies": {
     "@babel/cli": "7.12.10",
     "@babel/core": "7.12.10",
-    "@babel/preset-env": "7.12.10",
-    "eslint": "7.15.0",
+    "@babel/preset-env": "7.12.11",
+    "eslint": "7.16.0",
     "eslint-config-standard": "16.0.2",
     "eslint-plugin-import": "2.22.1",
     "eslint-plugin-node": "11.1.0",
