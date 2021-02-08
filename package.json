@@ -36,9 +36,9 @@
   },
   "homepage": "https://github.com/salsita/dripping-bucket#readme",
   "devDependencies": {
-    "@babel/cli": "7.12.10",
-    "@babel/core": "7.12.10",
-    "@babel/preset-env": "7.12.11",
+    "@babel/cli": "7.12.13",
+    "@babel/core": "7.12.13",
+    "@babel/preset-env": "7.12.13",
     "eslint": "7.19.0",
     "eslint-config-standard": "16.0.2",
     "eslint-plugin-import": "2.22.1",
